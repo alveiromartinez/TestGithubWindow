@@ -1,4 +1,4 @@
 TestGithubWindow
 ================
 
-testing the instalation github on window
+modifying testing the instalation github on window
